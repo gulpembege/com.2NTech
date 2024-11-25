@@ -4,9 +4,7 @@
 
 
 
-<div style="margin-top: -110px; margin-left: 400px; text-align: right;">
-    <img src="https://2nhaber.com/wp-content/uploads/2024/10/2n-logo-siyah-512-2.png" alt="2nHaber Logo" width="100">
-</div>
+
 
 Bu proje, 2NHaber ve 2NTECH icin baslica UI ve Performans testleri icin hazırlanmıştır. 
 Kodlama yapilirken  DRY/ SOLID ve OOP yapilarina dikkat edilmistir. Testler Fonksiyonel ve Kara Kutu test metotlarına uygun olarak yapılmistir.
