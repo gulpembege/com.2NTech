@@ -53,8 +53,7 @@ Kodlama yapilirken  DRY/ SOLID ve OOP yapilarina dikkat edilmistir. Testler Fonk
 ##  👥 <span style="color:orange;font-family:Courier New">Kullanım Senaryoları</span>
 
 - **UI Test Senaryolari**: 2NHaber anasayfa navbar , haber arama fonksiyonu olmak uzere 2 , 2NTech basvuru formu doldurma olmak uzere 1 ,  toplamda 3 farkli senaryo test edilmistir
-- **Performans Test Senaryoları**: JMeter kullanilarak
-
+- **Performans Test Senaryoları**: JMeter'de 50x2 thread, toplamda 100 thread (50 thread grubu 2 kez çalıştırılarak) kullanılarak yapılan bir yük testi senaryosu olusturulmustur. Bu, 100 farklı sanal kullanıcıyı simüle ederek her biri icin ayri haberler aratip , farkli haberlere tiklama fonksiyonu test eder.
 ## 📝 <span style="color:pink;font-family:Courier New">Notlar</span>
 
 - Bu framework sadece UI otomasyon ve performans testlerini barindirir
