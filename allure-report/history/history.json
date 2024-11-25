@@ -1,0 +1,1 @@
+{"7d0565019a2520b074b1064ac49812fe":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"1270ead85d6cd2","status":"failed","statusDetails":"java.lang.AssertionError","time":{"start":1732382196959,"stop":1732382210665,"duration":13706}}]}}
